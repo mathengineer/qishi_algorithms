@@ -2,31 +2,29 @@
 
 class Solution:
     def canPartitionKSubsets(self, nums: List[int], k: int) -> bool:
-        total = sum(nums)
-        if total%k != 0:
+        summation = sum(nums)
+        n = summation/k
+        if n!=int(n):
             return False
+        n = int(n)
         
-        subset_sum = total//k
+        visited = set()
         
-        nums.sort(reverse=True)
-        visited = [False]*len(nums)
-        
-        def partition_sub(nums, start, subset_sum, cum, k, visited):
-            if k == 0:
+        def check(start, k, cum=0):
+            if k==0:
                 return True
             
-            if cum == subset_sum:
-                return partition_sub(nums, 0, subset_sum, 0, k-1, visited)
+            if cum == n and check(0, k-1):
+                return True
             
             for i in range(start, len(nums)):
-                if not visited[i] and cum+n<=subset_sum:
-                    visited[i] = True
-                    if partition_sub(nums, i+1, subset_sum, 
-                                     cum+n, k, visited):
+                if i not in visited and cum+nums[i] <= n:
+                    visited.add(i)
+                    if check(i+1, k, cum+nums[i]):
                         return True
-                    # Backtracing
-                    visited[i] = False
-                
+                    else:
+                        visited.remove(i)
             return False
         
-        return partition_sub(nums, 0, subset_sum, 0, k, visited)
+
+        return check(0, k)
