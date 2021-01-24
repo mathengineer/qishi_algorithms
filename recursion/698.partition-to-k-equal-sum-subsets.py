@@ -19,10 +19,10 @@ class Solution:
                 return partition_sub(nums, 0, subset_sum, 0, k-1, visited)
             
             for i in range(start, len(nums)):
-                if not visited[i] and cum+nums[i]<=subset_sum:
+                if not visited[i] and cum+n<=subset_sum:
                     visited[i] = True
                     if partition_sub(nums, i+1, subset_sum, 
-                                     cum+nums[i], k, visited):
+                                     cum+n, k, visited):
                         return True
                     # Backtracing
                     visited[i] = False
