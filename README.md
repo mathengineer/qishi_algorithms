@@ -1,10 +1,10 @@
 # Qishi 11th Algorithms Study Group
-1. Recursion
+## Recursion
   1) https://leetcode.com/problems/merge-two-sorted-lists/
   2) https://leetcode.com/problems/validate-binary-search-tree/
   3) https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
   4) https://leetcode.com/problems/k-th-symbol-in-grammar/
-2. Dynamic Programming
+## Dynamic Programming
   1) https://leetcode.com/problems/maximum-product-subarray/
   2) https://leetcode.com/problems/longest-increasing-subsequence/
   3) https://leetcode.com/problems/partition-equal-subset-sum/
