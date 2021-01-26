@@ -4,9 +4,16 @@
   2) https://leetcode.com/problems/validate-binary-search-tree/
   3) https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
   4) https://leetcode.com/problems/k-th-symbol-in-grammar/
+
 ## Dynamic Programming
   1) https://leetcode.com/problems/maximum-product-subarray/
   2) https://leetcode.com/problems/longest-increasing-subsequence/
   3) https://leetcode.com/problems/partition-equal-subset-sum/
   4) https://leetcode.com/problems/super-egg-drop/
   5) A Practical Guide to Quantitative Finance Interviews Page 127
+
+## Divide and Conquer
+  1) https://leetcode.com/problems/generate-parentheses/
+  2) https://leetcode.com/problems/powx-n/
+  3) https://leetcode.com/problems/maximum-depth-of-binary-tree/
+  4) classify 15~20 LC problems into design paradigms
