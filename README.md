@@ -17,3 +17,9 @@
   2) https://leetcode.com/problems/powx-n/
   3) https://leetcode.com/problems/maximum-depth-of-binary-tree/
   4) classify 15~20 LC problems into design paradigms
+
+## Binary Search
+  1) https://leetcode.com/problems/search-insert-position/
+  2) https://leetcode.com/problems/find-the-duplicate-number/
+  3) https://leetcode.com/problems/kth-smallest-element-in-a-sorted- matrix/
+  4) https://leetcode.com/problems/find-k-th-smallest-pair-distance/
