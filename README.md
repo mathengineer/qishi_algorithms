@@ -23,3 +23,9 @@
   2) https://leetcode.com/problems/find-the-duplicate-number/
   3) https://leetcode.com/problems/kth-smallest-element-in-a-sorted- matrix/
   4) https://leetcode.com/problems/find-k-th-smallest-pair-distance/
+
+## DFS and BFS (Union Find as alternative method for island kind of problem)
+  1) https://leetcode.com/problems/validate-binary-search-tree/
+  2) https://leetcode.com/problems/surrounded-regions/
+  3) https://leetcode.com/problems/binary-tree-right-side-view/
+  4) https://leetcode.com/problems/number-of-islands/
