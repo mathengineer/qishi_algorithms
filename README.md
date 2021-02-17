@@ -29,3 +29,9 @@
   2) https://leetcode.com/problems/surrounded-regions/
   3) https://leetcode.com/problems/binary-tree-right-side-view/
   4) https://leetcode.com/problems/number-of-islands/
+
+## Backtracking
+  1) https://leetcode.com/problems/generate-parentheses/
+  2) https://leetcode.com/problems/sudoku-solver/
+  3) https://leetcode.com/problems/permutations/
+  4) https://leetcode.com/problems/beautiful-arrangement/
