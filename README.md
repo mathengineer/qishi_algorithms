@@ -35,3 +35,9 @@
   2) https://leetcode.com/problems/sudoku-solver/
   3) https://leetcode.com/problems/permutations/
   4) https://leetcode.com/problems/beautiful-arrangement/
+
+## Graph
+  1) https://leetcode.com/problems/coloring-a-border/
+  2) https://leetcode.com/problems/couples-holding-hands/
+  3) https://leetcode.com/problems/path-with-minimum-effort/
+  4) https://leetcode.com/problems/network-delay-time/
