@@ -41,3 +41,9 @@
   2) https://leetcode.com/problems/couples-holding-hands/
   3) https://leetcode.com/problems/path-with-minimum-effort/
   4) https://leetcode.com/problems/network-delay-time/
+
+## Bit Manipulation
+ 1) https://leetcode.com/problems/single-number/
+ 2) https://leetcode.com/problems/bitwise-and-of-numbers-range/
+ 3) https://leetcode.com/problems/maximum-product-of-word-lengths/
+ 4) https://leetcode.com/problems/sum-of-two-integers/
